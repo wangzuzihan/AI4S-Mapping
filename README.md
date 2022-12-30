@@ -5,7 +5,9 @@ https://miracleplus.feishu.cn/minutes/obcnc893ba8ad1stro1tfo14?from=from_copylin
 基本背景
 ---
 
-![1](https://user-images.githubusercontent.com/118708553/210036227-fc22a8c9-b9a1-49a8-883c-3cb566411f78.PNG)
+<div align=center>
+<image src="https://user-images.githubusercontent.com/118708553/210036227-fc22a8c9-b9a1-49a8-883c-3cb566411f78.PNG"/>
+</div>
 
 “不同的道路，是否在山顶能看到相同的月亮”？
 
@@ -13,7 +15,9 @@ https://miracleplus.feishu.cn/minutes/obcnc893ba8ad1stro1tfo14?from=from_copylin
 ---
 物理学，天文学，化学，生物，地球科学等
 
-![2](https://user-images.githubusercontent.com/118708553/210036240-a2de605b-6d73-4c8a-b94c-88cd8616de55.PNG)
+<div align=center>
+<img src="https://user-images.githubusercontent.com/118708553/210036240-a2de605b-6d73-4c8a-b94c-88cd8616de55.PNG"/>
+</div>
 
 
 越往下越是理论驱动，越往上越是数据驱动
@@ -22,9 +26,10 @@ https://miracleplus.feishu.cn/minutes/obcnc893ba8ad1stro1tfo14?from=from_copylin
 实验是一切的基石，所有与可重复实验结果不符合的都是错误的
 逻辑推理让我们用清晰的语言，基于简单的假设去预测广泛的现象
 
-![3](https://user-images.githubusercontent.com/118708553/210036248-398eedd3-89c7-43b2-b025-6d49cde3e18a.PNG)
-
-![4](https://user-images.githubusercontent.com/118708553/210036255-39bb7e98-f6dc-43af-8367-70c3d3901490.PNG)
+<div align=center>
+<img src="https://user-images.githubusercontent.com/118708553/210036248-398eedd3-89c7-43b2-b025-6d49cde3e18a.PNG"/>
+<img src="https://user-images.githubusercontent.com/118708553/210036255-39bb7e98-f6dc-43af-8367-70c3d3901490.PNG"/>
+</div>
 
 
 ## 逻辑推理将科学问题转变成计算问题
@@ -32,7 +37,9 @@ https://miracleplus.feishu.cn/minutes/obcnc893ba8ad1stro1tfo14?from=from_copylin
 
 本世纪的科学理论重点是<b>量子力学</b>
 
-![5](https://user-images.githubusercontent.com/118708553/210036269-62292a88-1818-41ff-8297-de3b3edb41ac.png)
+<div align=center>
+<img src="https://user-images.githubusercontent.com/118708553/210036269-62292a88-1818-41ff-8297-de3b3edb41ac.png"/>
+</div>
 
 
 化学反应本质也是粒子的演化过程，可以被量子力学的语言去描述
@@ -51,19 +58,25 @@ https://miracleplus.feishu.cn/minutes/obcnc893ba8ad1stro1tfo14?from=from_copylin
   - 物理学家Anderson在1972年提出“More is different” （还原论不能指导我们对于复杂体系的理解，直接带动了凝聚态物理的发展，目前已经是物理最主要研究领域之一）
   - 21世纪开始的复杂系统：简单行动规则，涌现复杂现象
         e.g. Conway的生命游戏（game of life）     动态视频可以搜索'Rule 30'
-![6](https://user-images.githubusercontent.com/118708553/210036301-83f0979b-2dcb-4792-ba95-07dc06d9091e.png)
+<div align=center>        
+<img src="https://user-images.githubusercontent.com/118708553/210036301-83f0979b-2dcb-4792-ba95-07dc06d9091e.png"/>
+</div>
 
 
 #### 3. 人脑就不擅长复杂的计算（个人觉得）
   - 混沌理论（非线性）的诞生源于计算机模拟时的一次失误
 
-![7](https://user-images.githubusercontent.com/118708553/210036308-46814473-0fa3-4701-868b-fd8a3ed67efa.png)
+<div align=center>
+<img src="https://user-images.githubusercontent.com/118708553/210036308-46814473-0fa3-4701-868b-fd8a3ed67efa.png"/>
+</div>
 
 
 ## 对抗维度灾难的一些尝试
 
 #### 1. 将方程简化的近似手段
-![8](https://user-images.githubusercontent.com/118708553/210036314-d8de85af-c0e6-4bf5-b276-842bd1159d66.png)
+<div align=center>
+<img src="https://user-images.githubusercontent.com/118708553/210036314-d8de85af-c0e6-4bf5-b276-842bd1159d66.png">
+</div>
 
 计算精度
 薛定谔方程 > 密度泛函 > 分子动力学
@@ -80,7 +93,10 @@ https://miracleplus.feishu.cn/minutes/obcnc893ba8ad1stro1tfo14?from=from_copylin
 
 ## ML
 ### 数据可以降低问题的难度
-![10](https://user-images.githubusercontent.com/118708553/210036337-ec94a338-7637-4a9b-8071-83975c27a606.png)
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/118708553/210036337-ec94a338-7637-4a9b-8071-83975c27a606.png"/>
+</div>
 
 ### 计算能力的直观表示
 直观的理解是，数据代表着我们对于一个问题的理解，我们知道这个问题的信息越多，我们就更容易去解决这个问题。
@@ -92,6 +108,8 @@ https://miracleplus.feishu.cn/minutes/obcnc893ba8ad1stro1tfo14?from=from_copylin
 经典问题：“是猫还是狗？”
 我们假设，存在一个真实函数，使得可以对于输入的图像或者其他东西，给出它所对应的准确分类。
 通过已有的数据，我们去近似这个真实函数。
+
+
 ![11](https://user-images.githubusercontent.com/118708553/210036349-e93c4f6f-909d-4ec1-a03e-9269d2d07762.png)
 
 
