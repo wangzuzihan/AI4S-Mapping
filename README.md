@@ -176,7 +176,9 @@ AI的理论基础是统计学习learning theory，主要讨论了 “如果我�
   辅助临床治疗时靶向药物的选择，预测临床获益情况
   基因治疗
 
-![16](https://user-images.githubusercontent.com/118708553/210036424-2b4938a4-0167-4c9c-a9dc-021a0cab04e9.png)
+<div align=center>
+<img src="https://user-images.githubusercontent.com/118708553/210036424-2b4938a4-0167-4c9c-a9dc-021a0cab04e9.png">
+</div>
 
 
 3. 药物开发
@@ -285,9 +287,10 @@ e.g. 电解氢的催化材料 CoFeB
 
 #### 3. 太阳能，核能
 
-![29](https://user-images.githubusercontent.com/118708553/210036543-889da718-b1b3-4f20-95dd-4d1684c32942.png)
-![30](https://user-images.githubusercontent.com/118708553/210036557-298326d7-c139-45b3-9dc9-00b20adc0b7c.png)
-
+<div align=center>
+<img src="https://user-images.githubusercontent.com/118708553/210036543-889da718-b1b3-4f20-95dd-4d1684c32942.png"/>
+<img src="https://user-images.githubusercontent.com/118708553/210036557-298326d7-c139-45b3-9dc9-00b20adc0b7c.png"/>
+</div>
 
 ### AI for 地球科学
 #### 1. 同位素扩散过程
@@ -405,22 +408,22 @@ AI4S我认为是科学为主，而非AI。AI只是技术上驱动科学发展的
 #### 2.  以科学家和工程师协作为标志的大规模基础设施建设期
 #### 3.  以工程师为主导的应用期
 
-第三阶段的机会主要是在
+### 第三阶段的机会主要是在
 - 新计算工具定义新研发流程
 - 软件定义硬件
 最近参加的很多学会上发现物理学家们打算使用ai优化实验装置搭建，软件定义硬件或许会更早发生？
 
-贡献名单
+### 贡献名单
 郭乃绪，落落（陈军玉），Jack，杨婧， 李湃 
 
 
 
 
+<div align=center>
+<img src="https://user-images.githubusercontent.com/118708553/210037473-7ee0ac08-02a6-421c-85ef-07333c984445.png">
+</div>
 
-![43](https://user-images.githubusercontent.com/118708553/210037473-7ee0ac08-02a6-421c-85ef-07333c984445.png)
-
-
-相关文章推荐
+### 相关文章推荐
 
 AI 4 Science https://github.com/wangzuzihan/AI4S/blob/main/README.md
 
