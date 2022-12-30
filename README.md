@@ -265,9 +265,14 @@ AI的理论基础是统计学习learning theory，主要讨论了 “如果我�
 
 #### 3. 催化材料
 工业制品中超过 80％ 都涉及催化剂， 提高生产力降低反应要求
-![23](https://user-images.githubusercontent.com/118708553/210036473-e94977a3-d3ee-4a66-a572-81b60963094f.png)
+<div align=center>
+<img src="https://user-images.githubusercontent.com/118708553/210036473-e94977a3-d3ee-4a66-a572-81b60963094f.png"/>
+</div>
+
 e.g. 电解氢的催化材料 CoFeB
-![24](https://user-images.githubusercontent.com/118708553/210036480-0c38d13c-5c85-4f5d-a99f-134438007999.png)
+<div align=center>
+<img src="https://user-images.githubusercontent.com/118708553/210036480-0c38d13c-5c85-4f5d-a99f-134438007999.png"/>
+</div>
 
 #### 4. 高熵材料 （大于五种元素等量配置，航天核能等）
 <div align=center>
