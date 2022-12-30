@@ -1,13 +1,15 @@
 # AI4S-Mapping
 录音：
 https://miracleplus.feishu.cn/minutes/obcnc893ba8ad1stro1tfo14?from=from_copylink
-基本背景
 
+基本背景
+---
 ![1](https://user-images.githubusercontent.com/118708553/210036227-fc22a8c9-b9a1-49a8-883c-3cb566411f78.PNG)
 
 “不同的道路，是否在山顶能看到相同的月亮”？
 
 科学
+---
 物理学，天文学，化学，生物，地球科学等
 
 ![2](https://user-images.githubusercontent.com/118708553/210036240-a2de605b-6d73-4c8a-b94c-88cd8616de55.PNG)
@@ -15,7 +17,7 @@ https://miracleplus.feishu.cn/minutes/obcnc893ba8ad1stro1tfo14?from=from_copylin
 
 越往下越是理论驱动，越往上越是数据驱动
 
-科学的核心在于观察和逻辑推理 （实验以及理论）
+###科学的核心在于观察和逻辑推理 （实验以及理论）
 实验是一切的基石，所有与可重复实验结果不符合的都是错误的
 逻辑推理让我们用清晰的语言，基于简单的假设去预测广泛的现象
 
