@@ -270,8 +270,10 @@ e.g. 电解氢的催化材料 CoFeB
 ![24](https://user-images.githubusercontent.com/118708553/210036480-0c38d13c-5c85-4f5d-a99f-134438007999.png)
 
 #### 4. 高熵材料 （大于五种元素等量配置，航天核能等）
-![25](https://user-images.githubusercontent.com/118708553/210036494-a4387921-8d79-43dd-b63c-42c74169beff.png)
-![26](https://user-images.githubusercontent.com/118708553/210036497-bd6290d5-b1c1-450a-9318-9f346c221287.png)
+<div align=center>
+<img src="https://user-images.githubusercontent.com/118708553/210036494-a4387921-8d79-43dd-b63c-42c74169beff.png"/>
+<img src="https://user-images.githubusercontent.com/118708553/210036497-bd6290d5-b1c1-450a-9318-9f346c221287.png"/>
+</div>
 
 #### 5. 纳米材料  e.g. 石墨烯
 #### 6. 复合材料
@@ -317,7 +319,9 @@ e.g. 电解氢的催化材料 CoFeB
 ![36](https://user-images.githubusercontent.com/118708553/210036594-1c9d38af-4042-4342-be5b-3e742a30948d.png)
 
 让我们重新回顾一下科学的阶层结构
-![37](https://user-images.githubusercontent.com/118708553/210036611-6ac4920b-9589-4e70-8db3-8d1377f0010d.png)
+<div align=center>
+<img src="https://user-images.githubusercontent.com/118708553/210036611-6ac4920b-9589-4e70-8db3-8d1377f0010d.png"/>
+</div>
 
 越往上越是数据驱动，越往下越是逻辑推理驱动。
 
