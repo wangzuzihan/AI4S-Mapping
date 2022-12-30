@@ -109,8 +109,9 @@ https://miracleplus.feishu.cn/minutes/obcnc893ba8ad1stro1tfo14?from=from_copylin
 我们假设，存在一个真实函数，使得可以对于输入的图像或者其他东西，给出它所对应的准确分类。
 通过已有的数据，我们去近似这个真实函数。
 
-
-![11](https://user-images.githubusercontent.com/118708553/210036349-e93c4f6f-909d-4ec1-a03e-9269d2d07762.png)
+<div align=center>
+<img src="https://user-images.githubusercontent.com/118708553/210036349-e93c4f6f-909d-4ec1-a03e-9269d2d07762.png">
+</div>
 
 
 #### 2. 非监督学习（Unsupervised learning）
@@ -122,7 +123,9 @@ https://miracleplus.feishu.cn/minutes/obcnc893ba8ad1stro1tfo14?from=from_copylin
 #### 3. 强化学习（Reinforcement Learning）
 我们没有数据，但我们会设置一些规则，希望通过不断的试错来让ai实现我们的目标。换句话说，ai自己会生成数据（试错）来学习，最终希望满足我们的目标。
 
-![13](https://user-images.githubusercontent.com/118708553/210036380-25af14a6-2861-40b6-ae50-c878f3230955.png)
+<div align=center>
+<img src="https://user-images.githubusercontent.com/118708553/210036380-25af14a6-2861-40b6-ae50-c878f3230955.png"/>
+</div>
 
 
 这三种典型方法其实都是基于数据的处理以及学习，区分在于一开始数据的不同，以及基于此我们想实现的不同的目标。
