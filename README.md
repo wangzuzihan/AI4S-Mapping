@@ -224,7 +224,8 @@ AI for life science的现状：
 - 高通量实验：瓶颈主要还在湿实验，一方面实验室验证阶段耗时较长，另一方面，湿实验所提供的数据远远达不到计算模型的要求。这个方向有很多可以用AI去优化的靶点探索方法。
 - 干湿算法平衡：干湿实验可以看作一个完整的loop，每一个环节都是可以优化的，一是预训练模型可以用较小数据量很好的表征模型，可以减少数据需求；二是可以通过优化湿实验，使数据迭代更快更准。三是主动ML，比如贝叶斯优化，优化实验设计。
 - 壁垒：实验能力+算力，现在去做垂直领域的基础通用模型并分享，会加速整个领域的发展，这个过程中也有政府的推动，比如建立国家级实验室，能更好的将算力普及。将算力充分调动很重要，能更好的推动算法的发展，模型与应用适配很重要。
-AI for 材料科学
+
+<b>AI for 材料科学</b>
 ![20](https://user-images.githubusercontent.com/118708553/210036459-49bbb48a-2c66-492b-a827-a1605432eea2.png)
 ![21](https://user-images.githubusercontent.com/118708553/210036463-0c412845-6399-48c3-9dc6-a3bc9706f928.png)
 
@@ -237,68 +238,64 @@ AI for 材料科学
 
 3. 催化材料
 工业制品中超过 80％ 都涉及催化剂， 提高生产力降低反应要求
-[Image]
-e.g. 电解氢的催化材料 CoFeB
-
 ![23](https://user-images.githubusercontent.com/118708553/210036473-e94977a3-d3ee-4a66-a572-81b60963094f.png)
+e.g. 电解氢的催化材料 CoFeB
+![24](https://user-images.githubusercontent.com/118708553/210036480-0c38d13c-5c85-4f5d-a99f-134438007999.png)
 
 4. 高熵材料 （大于五种元素等量配置，航天核能等）
-
-![24](https://user-images.githubusercontent.com/118708553/210036480-0c38d13c-5c85-4f5d-a99f-134438007999.png)
 ![25](https://user-images.githubusercontent.com/118708553/210036494-a4387921-8d79-43dd-b63c-42c74169beff.png)
+![26](https://user-images.githubusercontent.com/118708553/210036497-bd6290d5-b1c1-450a-9318-9f346c221287.png)
 
 5. 纳米材料  e.g. 石墨烯
 6. 复合材料
 好用工具
 如 DeePMD（模型构建），ABACUS（跨尺度联动），RiD（强化采样）。此外结构搜索领域也出现了诸如 CALYPSO 这样的工具
 
-AI for 能源
+<b>AI for 能源</b>
 1. 燃烧以及发动机效率
-![26](https://user-images.githubusercontent.com/118708553/210036497-bd6290d5-b1c1-450a-9318-9f346c221287.png)
-
-2. 电池 （高能量密度，高安全性，长循环寿命，高倍率）
 ![27](https://user-images.githubusercontent.com/118708553/210036505-44d104be-d21a-4255-bd62-389617cde08b.png)
 
-3. 太阳能，核能
+2. 电池 （高能量密度，高安全性，长循环寿命，高倍率）
 ![28](https://user-images.githubusercontent.com/118708553/210036525-bc1124a6-8276-401c-b2df-c6fdf3503ae0.png)
+
+3. 太阳能，核能
+
 ![29](https://user-images.githubusercontent.com/118708553/210036543-889da718-b1b3-4f20-95dd-4d1684c32942.png)
-
-
-AI for 地球科学
-1. 同位素扩散过程
 ![30](https://user-images.githubusercontent.com/118708553/210036557-298326d7-c139-45b3-9dc9-00b20adc0b7c.png)
 
-2. 天气预测
+
+<b>AI for 地球科学</b>
+1. 同位素扩散过程
 ![31](https://user-images.githubusercontent.com/118708553/210036569-07469aae-97fe-44af-8ef4-3f454947d738.png)
 
-AI for 天文学
+2. 天气预测
+![32](https://user-images.githubusercontent.com/118708553/210036573-250d982b-d724-4477-a9d4-8dc44708307b.png)
+
+<b>AI for 天文学</b>
 1. AI+天文望远镜数据，寻找新行星
 例子：谷歌处理了开普勒望远镜4年来记录的图像中的140亿个数据点，发现在我们所在的太阳系之外，还存在另一个拥有8颗行星的太阳系。
-![32](https://user-images.githubusercontent.com/118708553/210036573-250d982b-d724-4477-a9d4-8dc44708307b.png)
+![33](https://user-images.githubusercontent.com/118708553/210036583-85522e6e-8e34-4c84-8ce2-9218d4fb3c70.png)
 
 2. AI查看海量天文图片，寻找“引力透镜”
 当宇宙中一个巨大的物体（通常是一个星系或黑洞）出现在一个遥远的光源和地球上的观测点之间时，它会使空间和光线在其周围环绕，形成一个“镜头”，就像“太空望远镜”一样，让天文学家得以更近距离的观察此前看不到的宇宙中古老而遥远的部分。这就是“引力透镜”，它对天文学家研究宇宙暗物质产生的引力效应非常重要。
-![33](https://user-images.githubusercontent.com/118708553/210036583-85522e6e-8e34-4c84-8ce2-9218d4fb3c70.png)
+![34](https://user-images.githubusercontent.com/118708553/210036587-ed8e71d3-360a-40a0-b843-f15568080ad2.png)
 
 3. AI可以创造信息，填补宇宙观测的盲点
 比如通过生成式对抗网络GAN，AI可以大幅改善模糊的天文望远镜照片，甚至可以用来发现黑洞。
-![34](https://user-images.githubusercontent.com/118708553/210036587-ed8e71d3-360a-40a0-b843-f15568080ad2.png)
-
+![35](https://user-images.githubusercontent.com/118708553/210036590-f57cc8ff-5fa0-427f-8d83-3f09ebd9a0cf.png)
 
 从科学的角度来说，AI for Science其实就是使用新的方法，去更好的挖掘数据的内在关系，以及从learning的角度去更深的理解自己关注的体系。
 从AI的角度来说，是AI可能落地的方向之一。重点还是在科学这边。
-
-![35](https://user-images.githubusercontent.com/118708553/210036590-f57cc8ff-5fa0-427f-8d83-3f09ebd9a0cf.png)
-
+![36](https://user-images.githubusercontent.com/118708553/210036594-1c9d38af-4042-4342-be5b-3e742a30948d.png)
 
 让我们重新回顾一下科学的阶层结构
-![36](https://user-images.githubusercontent.com/118708553/210036594-1c9d38af-4042-4342-be5b-3e742a30948d.png)
+![37](https://user-images.githubusercontent.com/118708553/210036611-6ac4920b-9589-4e70-8db3-8d1377f0010d.png)
 
 越往上越是数据驱动，越往下越是逻辑推理驱动。
 
 小结
 1. 大规模数据处理
-![37](https://user-images.githubusercontent.com/118708553/210036611-6ac4920b-9589-4e70-8db3-8d1377f0010d.png)
+![38](https://user-images.githubusercontent.com/118708553/210036635-8f6e6c95-0285-400e-b71b-6f25ba4512e8.png)
 
 蛋白质折叠是一个典型的高维问题，通过AI有了非常好的突破 （AlphaFold2）
 以前也有生物物理学家研究理论视角的相关研究，但AlphaFold2很好的体现了数据驱动的优越性。
@@ -307,7 +304,7 @@ AI for 天文学
 
 
 2. 高精度模型求解
-![38](https://user-images.githubusercontent.com/118708553/210036635-8f6e6c95-0285-400e-b71b-6f25ba4512e8.png)
+![39](https://user-images.githubusercontent.com/118708553/210036654-0c0db1af-3814-48b0-a570-acf42e5147b2.png)
 
 传统分子动力学的方程求解，有一定的经验参数在里面，导致精度较低。
 第一性原理的密度泛函计算精度会高一些，但是计算时间很长。
@@ -325,22 +322,28 @@ AI for 天文学
     A. 从可学习性的角度去了解量子体系 （数值有不少结果，理论正在发展）
     B. 量子计算能否加速AI计算过程 （已有一些结果）
     C. xxx
-![39](https://user-images.githubusercontent.com/118708553/210036654-0c0db1af-3814-48b0-a570-acf42e5147b2.png)
+![40](https://user-images.githubusercontent.com/118708553/210036718-9d17b3bf-5632-4dfc-baa3-6b9147111001.png)
 
-AI做科学家？第五范式？
+<b>AI做科学家？第五范式？</b>
+
 1. AI 能成为科学家么？
 目前ML主要基于数据的统计相关性来进行建模拟合。
 统计相关性分以下三种：
+![41](https://user-images.githubusercontent.com/118708553/210038784-b4b35322-7e96-4f22-b0bf-0e8b1dabcc1f.png)
 
-因果，混淆，样本选择偏差
+ <div aliagn=center>
+  因果，混淆，样本选择偏差
+</div>
 
 其中只有因果关系这种结构是稳定的，可解释的。
 目前盛行的深度学习等方法，无法进行因果推断，更无法实现通用人工智能（AGI）。
 最近很火的大模型 （GPT-3，4还是DALL-E），面对AGI的目标，我认为只是在错误的方向上狂飙。
 深度学习的大佬们（图灵奖们）近几年也在尝试拨乱反正，希望回归正确的AGI发展道路。
 AGI如果实现，成为科学家这个说法是可靠的。
+
 2. AI4S是科学的第五范式？
-![40](https://user-images.githubusercontent.com/118708553/210036718-9d17b3bf-5632-4dfc-baa3-6b9147111001.png)
+![42](https://user-images.githubusercontent.com/118708553/210038712-e7d7d830-e71b-4607-a060-2ea1685ffab6.png)
+
 
 微软研究院和IBM提出AI4S是科学的第五范式。
 有待商榷，至少学界很多人还不太认可。
