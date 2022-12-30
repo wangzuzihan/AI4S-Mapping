@@ -162,12 +162,11 @@ AI的理论基础是统计学习learning theory，主要讨论了 “如果我�
   - 降低分析的时间/人力成本
   - 基于AI，可以高通量的去挖掘跨尺度、多模态的信息
   - 研究基因表达水平的调控机制 （98%碱基序列不参与编码蛋白质，但参与调控）
-
-![14](https://user-images.githubusercontent.com/118708553/210036404-8d3ba93f-179a-406a-99ec-7904f3a8fd78.png)
-
-
-![15](https://user-images.githubusercontent.com/118708553/210036411-17fbeb23-0e53-4f32-a178-e80fcb6b025e.png)
-
+  
+<div align=center>
+<img src="https://user-images.githubusercontent.com/118708553/210036404-8d3ba93f-179a-406a-99ec-7904f3a8fd78.png"/>
+<img src="https://user-images.githubusercontent.com/118708553/210036411-17fbeb23-0e53-4f32-a178-e80fcb6b025e.png"/>
+</div>
 
 2. 精准医疗
   - AI辅助基因筛查来进行疾病早筛
