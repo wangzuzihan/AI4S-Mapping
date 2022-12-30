@@ -28,7 +28,7 @@ https://miracleplus.feishu.cn/minutes/obcnc893ba8ad1stro1tfo14?from=from_copylin
 
 
 ## 逻辑推理将科学问题转变成计算问题
-从理论层面，我们对于低复杂度的体系以及特别复杂（e.g. $$\Omega(10^{23})$$）的体系可以建立很好的预测
+从理论层面，我们对于低复杂度的体系以及特别复杂（e.g. Omega(10^{23})）的体系可以建立很好的预测
 
 本世纪的科学理论重点是<b>量子力学</b>
 
@@ -392,6 +392,11 @@ AI4S我认为是科学为主，而非AI。AI只是技术上驱动科学发展的
 
 贡献名单
 郭乃绪，落落（陈军玉），Jack，杨婧， 李湃 
+
+
+
+
+
 ![43](https://user-images.githubusercontent.com/118708553/210037473-7ee0ac08-02a6-421c-85ef-07333c984445.png)
 
 
